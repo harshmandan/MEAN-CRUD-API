@@ -4,6 +4,8 @@
 
 ![](https://img.shields.io/node/v/passport.svg)
 
+## Screenshots:
+
 ![](POST_Postman.png)
 > Creating a new product by sending a post request.
 
