@@ -1,4 +1,4 @@
-# NodeJS-CURD-API
+# MEAN-CURD-API
 
 > A simple CURD API made with Express, Node and MongoDB.
 
