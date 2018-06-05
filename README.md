@@ -1,6 +1,6 @@
-# MEAN-CURD-API
+# MEAN-CRUD-API
 
-> A simple CURD API made with Express, Node and MongoDB.
+> A simple CRUD API made with Express, Node and MongoDB.
 
 ![](https://img.shields.io/node/v/passport.svg)
 
